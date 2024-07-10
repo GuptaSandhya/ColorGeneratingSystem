@@ -1,0 +1,16 @@
+body{
+
+    text-align: center;
+}
+.box{
+    height: 100px;
+    width: 180;
+    margin: auto;
+    border: none;
+    font-family: cursive;
+}
+button{
+    color: white;
+    background-color: rgb(13, 14, 14);
+    border: none;
+}
